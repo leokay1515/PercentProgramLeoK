@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\PercentProgramLeoK\PercentProgramLeoK\bin\Debug\PercentProgramLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\PercentProgramLeoK\PercentProgramLeoK\bin\Debug\PercentProgramLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\PercentProgramLeoK\PercentProgramLeoK\bin\Debug\PercentProgramLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\PercentProgramLeoK\PercentProgramLeoK\obj\Debug\PercentProgramLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\PercentProgramLeoK\PercentProgramLeoK\obj\Debug\PercentProgramLeoK.frmPercentProgramLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\PercentProgramLeoK\PercentProgramLeoK\obj\Debug\PercentProgramLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\PercentProgramLeoK\PercentProgramLeoK\obj\Debug\PercentProgramLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\PercentProgramLeoK\PercentProgramLeoK\obj\Debug\PercentProgramLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\PercentProgramLeoK\PercentProgramLeoK\obj\Debug\PercentProgramLeoK.pdb
